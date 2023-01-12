@@ -1,0 +1,11 @@
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\bin\Debug\BaseDatos1.exe.config
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\bin\Debug\BaseDatos1.exe
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\bin\Debug\BaseDatos1.pdb
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.Form1.resources
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.Properties.Resources.resources
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.csproj.GenerateResource.cache
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.exe
+D:\Users\omarm\source\repos\BaseDatos1\BaseDatos1\obj\Debug\BaseDatos1.pdb
