@@ -1,0 +1,11 @@
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\bin\Debug\PruebaBaseDatos3.exe.config
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\bin\Debug\PruebaBaseDatos3.exe
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\bin\Debug\PruebaBaseDatos3.pdb
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.csproj.AssemblyReference.cache
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.csproj.SuggestedBindingRedirects.cache
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.Form1.resources
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.Properties.Resources.resources
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.csproj.GenerateResource.cache
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.csproj.CoreCompileInputs.cache
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.exe
+D:\Users\omarm\source\repos\BaseDatos1\PruebaBaseDatos3\obj\Debug\PruebaBaseDatos3.pdb
