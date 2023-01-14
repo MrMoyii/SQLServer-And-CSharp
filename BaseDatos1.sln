@@ -5,7 +5,7 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDatos1", "BaseDatos1\BaseDatos1.csproj", "{9338A8F0-6FCC-4C36-8FEF-88B52E28EC76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pruebabasedatos2", "pruebabasedatos2\pruebabasedatos2.csproj", "{56CD4E53-B1F6-4ACB-973A-19DB5BB8A9A6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBaseDatos2", "pruebabasedatos2\PruebaBaseDatos2.csproj", "{56CD4E53-B1F6-4ACB-973A-19DB5BB8A9A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBaseDatos3", "PruebaBaseDatos3\PruebaBaseDatos3.csproj", "{2A5CD34F-3C4F-45B7-97C1-D1837D2086F1}"
 EndProject

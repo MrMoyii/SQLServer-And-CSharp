@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace pruebabasedatos2
+namespace PruebaBaseDatos2
 {
     internal static class Program
     {
