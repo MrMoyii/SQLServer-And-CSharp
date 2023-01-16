@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBaseDatos4", "PruebaB
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBaseDatos5", "PruebaBaseDatos5\PruebaBaseDatos5.csproj", "{38D72078-450D-4C3B-BE44-BB0A818A4D4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebaBaseDatos6", "PruebaBaseDatos6\PruebaBaseDatos6.csproj", "{40970790-A4C3-45DA-A2DE-A2520057ECAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{38D72078-450D-4C3B-BE44-BB0A818A4D4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38D72078-450D-4C3B-BE44-BB0A818A4D4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38D72078-450D-4C3B-BE44-BB0A818A4D4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40970790-A4C3-45DA-A2DE-A2520057ECAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40970790-A4C3-45DA-A2DE-A2520057ECAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40970790-A4C3-45DA-A2DE-A2520057ECAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40970790-A4C3-45DA-A2DE-A2520057ECAD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

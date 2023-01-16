@@ -40,5 +40,39 @@ namespace PruebaBaseDatos6
                 MessageBox.Show("No existe un artículo con el código ingresado");
             conexion.Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            conexion.Open();
+
+            //Obtenemos los 3 valores ingresados de los Textbox
+            string cod = textBox1.Text;
+            string descri = textBox2.Text;
+            string precio = textBox3.Text;
+            //y los confecionamos en un string con el comando Sql
+            string cadena = "update Table_1 set descripcion='" + descri + "', precio=" + precio + " where codigo=" + cod;
+
+            //Creamos el objeto SqlCommand y por parametro le pasamos el comando SQL de borrado y la conexion
+            SqlCommand comando = new SqlCommand(cadena, conexion);
+
+            /*Llamamos al método ExecuteNonQuery que se comunica con el SQL Server para que 
+              ejecute el comando configurado previamente y retorna la cantidad de registros
+              afectados*/
+            int cant;
+            cant = comando.ExecuteNonQuery();
+
+            //Si retorna un uno significa que se efectuó la modificación:
+            if (cant == 1)
+            {
+                MessageBox.Show("Se modificaron los datos del artículo");
+                textBox1.Text = "";
+                textBox2.Text = "";
+                textBox3.Text = "";
+            }
+            else
+                MessageBox.Show("No existe un artículo con el código ingresado");
+            conexion.Close();
+            button2.Enabled = false;
+        }
     }
 }
