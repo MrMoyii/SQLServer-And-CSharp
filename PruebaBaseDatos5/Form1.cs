@@ -39,12 +39,13 @@ namespace PruebaBaseDatos5
                 MessageBox.Show("No existe un artículo con el código ingresado");
             conexion.Close();
         }
+
         private void button2_Click(object sender, EventArgs e)
         {
             conexion.Open();
             //Obtenemos el codigo y lo confecionamos en un string con el comando delete
             string cod = textBox1.Text;
-            string cadena = "delete from articulos where codigo=" + cod;
+            string cadena = "delete from Table_1 where codigo=" + cod;
 
             //Creamos el objeto SqlCommand y por parametro le pasamos el comando SQL de borrado y la conexion
             SqlCommand comando = new SqlCommand(cadena, conexion);
